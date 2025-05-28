@@ -24,7 +24,7 @@ Este proyecto aplica técnicas avanzadas de Visión por Computador e Inteligenci
 
 ### ⚠️ Limitaciones importantes
 
-> 🚫 **Este proyecto está diseñado para ejecutarse en mi entorno de Google Drive**, ya que utiliza rutas locales específicas a carpetas con más de 20.000 imágenes clasificadas.
+> 🚫 **Este proyecto está diseñado para ejecutarse en mi entorno de Google Drive**, ya que utiliza rutas locales específicas a carpetas con más de 6.000 imágenes clasificadas.
 
 Si deseas utilizarlo por tu cuenta:
 - Deberás **entrenar el modelo nuevamente** o ajustar el código para que funcione con tus rutas de imágenes.
